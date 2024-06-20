@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact: I have a Lean Six Sigma White Belt and enjoy applying its principles to improve efficiency in both my professional and personal life.
 
+![image](https://github.com/hbhavane/hbhavane/assets/78750775/a8d61081-086b-45ff-aef2-bec19e436721)
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
