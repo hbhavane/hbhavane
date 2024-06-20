@@ -1,5 +1,6 @@
-## Hi there 👋
+![image](https://github.com/hbhavane/hbhavane/assets/78750775/1b294855-0ed6-4ea8-b8e7-5d2f6a1db808)
 
+## Hi there 👋
 
 - 🔭 I’m currently working on enhancing data engineering processes and developing machine learning models to analyze trends in corporate political activities.
 
