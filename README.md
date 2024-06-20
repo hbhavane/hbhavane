@@ -49,15 +49,15 @@
 </p>
 <h2> 🚀 &nbsp;Specialties</h2>
 <p align="left">
-  <strong>Data Visualization</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/f44690e6-a893-4a5d-bfdf-06748ef859b1)" width="24" height="24"/><br>
-  <strong>Automation</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/4fab4a6f-bcc3-4bd4-bb83-558d88a12d25" alt="automation" width="24" height="24"/><br>
-  <strong>A/B Testing</strong> <img src="https://img.icons8.com/color/48/000000/ab-testing.png" alt="a/b testing" width="24" height="24"/><br>
-  <strong>Hypothesis Building and Validation</strong> <img src="https://img.icons8.com/color/48/000000/idea.png" alt="hypothesis building and validation" width="24" height="24"/><br>
-  <strong>Funnel Optimization</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/998547e4-b688-47ff-9709-cf2cbfbd32dd" width="24" height="24"/><br>
-  <strong>Web Analytics</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/af00c662-ccaa-4b58-8737-875a78570487" width="24" height="24"/><br>
-  <strong>Market Mix Modelling</strong> <img src="https://img.icons8.com/color/48/000000/statistics.png" alt="market mix modelling" width="24" height="24"/><br>
-  <strong>Scrum Methodology</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/61dc3109-bcc5-451d-ad28-ec5bd50bc201" width="24" height="24"/><br>
-  <strong>Lean Six Sigma White Belt</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/498d7ad4-d3b5-490b-a6c7-bae797ac3b06" alt="lean six sigma white belt" width="24" height="24"/><br>
+  <strong>- Data Visualization</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/f44690e6-a893-4a5d-bfdf-06748ef859b1)" width="24" height="24"/><br>
+  <strong>- Automation</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/4fab4a6f-bcc3-4bd4-bb83-558d88a12d25" alt="automation" width="24" height="24"/><br>
+  <strong>- A/B Testing</strong> <img src="https://img.icons8.com/color/48/000000/ab-testing.png" alt="a/b testing" width="24" height="24"/><br>
+  <strong>- Hypothesis Building and Validation</strong> <img src="https://img.icons8.com/color/48/000000/idea.png" alt="hypothesis building and validation" width="24" height="24"/><br>
+  <strong>- Funnel Optimization</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/998547e4-b688-47ff-9709-cf2cbfbd32dd" width="24" height="24"/><br>
+  <strong>- Web Analytics</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/af00c662-ccaa-4b58-8737-875a78570487" width="24" height="24"/><br>
+  <strong>- Market Mix Modelling</strong> <img src="https://img.icons8.com/color/48/000000/statistics.png" alt="market mix modelling" width="24" height="24"/><br>
+  <strong>- Scrum Methodology</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/61dc3109-bcc5-451d-ad28-ec5bd50bc201" width="24" height="24"/><br>
+  <strong>- Lean Six Sigma White Belt</strong> <img src="https://github.com/hbhavane/hbhavane/assets/78750775/498d7ad4-d3b5-490b-a6c7-bae797ac3b06" alt="lean six sigma white belt" width="24" height="24"/><br>
 </p>
 
 
